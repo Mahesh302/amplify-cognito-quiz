@@ -63,6 +63,11 @@ const quizData = [
       question: "What is the largest planet in our solar system?",
       options: ["Earth", "Jupiter", "Saturn", "Mars"],
       answer: "Jupiter"
+    },
+    {
+      question: "ChatGpt founded in which year?",
+      options: ["2019", "2020", "2021", "2022"],
+      answer: "2022"
     }
   ];
   
